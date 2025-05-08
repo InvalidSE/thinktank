@@ -4,7 +4,7 @@
   "fill": "#ffffff",
   "pixel_per_pt": 3,
   "search_system": false,
-  "override_math": false,
+  "override_math": true,
   "font_families": [],
   "preamable": {
     "shared": "#set text(fill: white, size: SIZE)\n#set page(width: WIDTH, height: HEIGHT)",
