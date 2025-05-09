@@ -25,12 +25,14 @@
             "id": "7d75121fe158fc96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Pasted image 20250509144247.png"
+                "file": "ENGSCI 211/Block 3 - Multiplicative Models.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250509144247"
+              "icon": "lucide-file",
+              "title": "Block 3 - Multiplicative Models"
             }
           }
         ],
@@ -182,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bad969cf94aa397",
+  "active": "7d75121fe158fc96",
   "lastOpenFiles": [
-    "ENGSCI 211/Block 3 - Multiplicative Models.md",
     "Media/Pasted image 20250509144247.png",
+    "ENGSCI 211/Block 3 - Multiplicative Models.md",
     "Media/Pasted image 20250509143711.png",
     "Media/Pasted image 20250509143655.png",
     "Media/Pasted image 20250509143351.png",

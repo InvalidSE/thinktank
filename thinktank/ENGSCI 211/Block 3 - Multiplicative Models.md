@@ -60,3 +60,4 @@ This gives us the ratio between the two medians.
 
 ![[Pasted image 20250509144247.png]]
 
+Amazing
