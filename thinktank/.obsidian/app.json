@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Media",
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "newFileLocation": "current"
 }
